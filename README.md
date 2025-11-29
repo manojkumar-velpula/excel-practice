@@ -1,15 +1,37 @@
-# excel-practice
-This repository contains my Excel practice files and datasets.
-# Excel Practice
+# 👋 Hi, I'm Manoj Kumar
 
-This repository contains my Excel practice files, formulas, and sample datasets.
+I am currently learning Data Analytics and improving my skills step by step.  
+I upload my daily practice work, small projects, and notes here on GitHub.  
+This is my learning space where I track my progress.
 
-### Topics Covered
-- Basic Functions (SUM, AVERAGE, COUNT)
-- IF, COUNTIF, SUMIF
-- Lookup Functions (VLOOKUP, XLOOKUP)
-- Pivot Tables
-- Dashboards
+---
 
-### Purpose
-Improving my Microsoft Excel skills for data analysis.
+##  Skills I'm Learning
+- Excel: Basic to advanced formulas, pivot tables, simple dashboards  
+- SQL: Select, where, joins, group by, practice queries  
+- Python: Basics, loops, lists, functions, pandas  
+- Power BI: Simple visuals and dashboards  
+
+---
+
+##  What I'm Doing Now
+- Practicing Excel and Python daily  
+- Working on small datasets to understand data cleaning  
+- Slowly building my portfolio with simple projects  
+
+---
+
+## My Repositories
+- **excel-practice** – All my Excel practice files  
+- **python-practice** – Python loops, lists, functions (coming soon)  
+- **sql-practice** – SQL queries and practice files (coming soon)  
+
+---
+
+##  My Goal
+To become a good Data Analyst and work on real data projects.
+
+---
+
+##  Contact
+Email: manojkumarvelpula.in@gmail.com
