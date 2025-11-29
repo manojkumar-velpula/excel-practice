@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manoj Kumar
+#  Hi, I'm Manoj Kumar
 
 I am currently learning Data Analytics and improving my skills step by step.  
 I upload my daily practice work, small projects, and notes here on GitHub.  
@@ -23,8 +23,8 @@ This is my learning space where I track my progress.
 
 ## My Repositories
 - **excel-practice** – All my Excel practice files  
-- **python-practice** – Python loops, lists, functions (coming soon)  
-- **sql-practice** – SQL queries and practice files (coming soon)  
+- **python-practice** – Python loops, lists, functions 
+- **sql-practice** – SQL queries and practice files 
 
 ---
 
